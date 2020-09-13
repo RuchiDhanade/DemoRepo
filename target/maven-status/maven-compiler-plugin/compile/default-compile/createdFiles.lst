@@ -1,0 +1,12 @@
+com\selenium\qa\base\TestBase.class
+com\selenium\qa\pages\LoginPage.class
+com\selenium\qa\pages\DealsPage.class
+com\selenium\qa\util\TestUtil.class
+com\selenium\qa\pages\ContactsPage.class
+com\selenium\qa\pages\SignupPage.class
+com\selenium\qa\pages\HomePage.class
+com\selenium\qa\pages\TasksPage.class
+com\selenium\qa\util\WebEventListner.class
+com\selenium\qa\ExtentReportListener\ExtentReporterNG.class
+com\selenium\qa\pages\NewContactPage.class
+com\selenium\qa\pages\ContactDetailsPage.class

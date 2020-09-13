@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Selenium_Maven_Project by packages]">
+  <test name="com.selenium.qa.testcases(failed)">
+    <classes>
+      <class name="com.selenium.qa.testcases.ContactsPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="createNewContactTest" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.selenium.qa.testcases.ContactsPageTest -->
+    </classes>
+  </test> <!-- com.selenium.qa.testcases(failed) -->
+</suite> <!-- Failed suite [Selenium_Maven_Project by packages] -->
