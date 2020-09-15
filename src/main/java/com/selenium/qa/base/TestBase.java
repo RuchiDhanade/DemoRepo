@@ -1,5 +1,6 @@
 // Git clonings
 // Git Jenkins
+//git pull
 
 package com.selenium.qa.base;
 
