@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="createNewContactTest" invocation-numbers="0"/>
+          <include name="createNewContactTest" invocation-numbers="0 1 2"/>
         </methods>
       </class> <!-- com.selenium.qa.testcases.ContactsPageTest -->
     </classes>

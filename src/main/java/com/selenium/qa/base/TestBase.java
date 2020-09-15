@@ -1,3 +1,6 @@
+// Git clonings
+// Git Jenkins
+
 package com.selenium.qa.base;
 
 import java.io.FileInputStream;
